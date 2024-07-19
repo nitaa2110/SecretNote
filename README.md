@@ -1,2 +1,2 @@
 # SecretNote
-Secret Note adalah note sederhana dengan pengamanan fingerpirnt
+Secret Note adalah note sederhana dengan pengamanan fingerprint
